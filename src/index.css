@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: url("./assets/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-color: #e0e0e080;
+}
